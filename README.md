@@ -1,15 +1,5 @@
-Oblig X
-=======
-OsloMet brukernavn: s348850
+DATA1700-1 21V Webprogrammering
 
-GitHub brukernavn:issa-rashdan
+Obligatorisk oppgave 2
 
-GitHub repo URL: https://github.com/DATA1700/oblig-2-issa-rashdan
-
-URL til Heroku app:
-
-Fullt navn: Issa rashdan
-
-Kort beskrivelse av applikasjon (5–10 setninger):
-yes, beklager for at jeg leverte litt sent/overtid. men jeg 
-oppgaven var litt vanskelig/krevende.
+Bestilling av kinobilletter (med "styling" og lagring på tjener/server)
